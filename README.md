@@ -14,7 +14,7 @@ I also use a corporate GitHub account as part of my work at @Ryndem:
 https://github.com/ValdemarFarinaRyndem
 
 You can also find me on LinkedIn:
-https://www.linkedin.com/in/valdemarfarina
+https://www.linkedin.com/in/valdemar-farina-6651b3201/
 
 ### What I usually work on
 
