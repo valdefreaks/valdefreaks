@@ -1,4 +1,4 @@
-Hi, I'm Valdemar Farina.
+# Hi, I'm Valdemar Farina
 
 Technical Lead with a strong background in frontend architecture and enterprise applications.
 Most of my work revolves around Angular, TypeScript and designing frontend systems that are
@@ -10,7 +10,11 @@ design systems and technical standards that multiple teams rely on.
 I care about building software that makes sense for the business, not over-engineered solutions.
 Good structure, clear boundaries and pragmatic decisions matter more to me than trends.
 
----
+I also use a corporate GitHub account as part of my work at @Ryndem:  
+https://github.com/ValdemarFarinaRyndem
+
+You can also find me on LinkedIn:
+https://www.linkedin.com/in/valdemarfarina
 
 ### What I usually work on
 
@@ -20,8 +24,6 @@ Good structure, clear boundaries and pragmatic decisions matter more to me than 
 - End-to-end solution design (frontend ↔ backend)
 - Technical reviews and architectural alignment
 - Mentoring and technical guidance
-
----
 
 ### Backend (technical leadership level)
 
@@ -34,15 +36,8 @@ architectural level:
 - Background processes, queues and async workflows
 - End-to-end flow validation
 
----
-
 ### Public work
 
 - **ngx-custom-tooltip**  
   Angular tooltip library focused on reusability and clean integration  
   https://www.npmjs.com/package/ngx-custom-tooltip
-
----
-
-You can also find me on LinkedIn:
-https://www.linkedin.com/in/valdemarfarina
